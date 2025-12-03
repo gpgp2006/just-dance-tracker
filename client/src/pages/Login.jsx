@@ -4,7 +4,7 @@ import axios from 'axios';
 import { useAuth } from '../context/AuthContext';
 
 function Login() {
-    const [step, setStep] = useState(1); // 1: Username, 2: Senha, 3: Cadastro
+    const [step, setStep] = useState(1);
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
     const [email, setEmail] = useState('');
@@ -13,7 +13,6 @@ function Login() {
     const { login } = useAuth();
     const navigate = useNavigate();
 
-    // Passo 1: Checa se usuário existe
     const handleCheckUser = async (e) => {
         e.preventDefault();
         setError('');
@@ -22,9 +21,9 @@ function Login() {
         try {
             const res = await axios.post('http://localhost:3001/api/auth/check-username', { username });
             if (res.data.exists) {
-                setStep(2); // Usuário existe -> Vai para Login (Senha)
+                setStep(2);
             } else {
-                setStep(3); // Não existe -> Vai para Cadastro
+                setStep(3);
             }
         } catch (err) {
             console.error(err);
@@ -32,32 +31,29 @@ function Login() {
         }
     };
 
-    // Passo 2: Login com senha
     const handleLogin = async (e) => {
         e.preventDefault();
         try {
             const res = await axios.post('http://localhost:3001/api/auth/login', { username, password });
-            login(res.data); // Salva no contexto global
-            navigate('/'); // Manda pra Home
+            login(res.data);
+            navigate('/');
         } catch (err) {
             console.error(err);
             setError('Senha incorreta ou erro no servidor.');
         }
     };
 
-    // Passo 3: Cadastro (Sign Up)
     const handleSignup = async (e) => {
         e.preventDefault();
         try {
-            // Cria conta com configurações padrão
             const res = await axios.post('http://localhost:3001/api/auth/signup', { 
                 username, 
                 password, 
                 email,
-                default_platform: '', // Padrão vazio (Geral)
+                default_platform: '',
                 default_input: ''
             });
-            login(res.data); // Já loga direto após criar a conta
+            login(res.data);
             navigate('/');
         } catch (err) {
             console.error(err);
@@ -75,7 +71,6 @@ function Login() {
 
                 {error && <div className="alert alert-danger btn-sm">{error}</div>}
 
-                {/* PASSO 1: DIGITAR USUÁRIO */}
                 {step === 1 && (
                     <form onSubmit={handleCheckUser}>
                         <div className="mb-3">
@@ -94,7 +89,6 @@ function Login() {
                     </form>
                 )}
 
-                {/* PASSO 2: DIGITAR SENHA (LOGIN) */}
                 {step === 2 && (
                     <form onSubmit={handleLogin}>
                         <div className="d-flex align-items-center mb-3 p-2 bg-light rounded">
@@ -116,7 +110,6 @@ function Login() {
                     </form>
                 )}
 
-                {/* PASSO 3: CRIAR CONTA (SIGN UP) */}
                 {step === 3 && (
                     <form onSubmit={handleSignup}>
                         <div className="alert alert-info py-2 small">

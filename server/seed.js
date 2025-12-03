@@ -1,25 +1,22 @@
 const { sequelize, Game, Song, User, Score } = require('./models');
 
-// --- FUNÇÃO AJUDANTE (HELPER) ---
-// Essa função monta o caminho da imagem automaticamente baseada na sua lógica
 const createSongHelper = async (id, title, artist, edition) => {
-    const imagePath = `/images/songs/${edition}/${id}.webp`; // <--- A MÁGICA ESTÁ AQUI
+    const imagePath = `/images/songs/${edition}/${id}.webp`;
     
     await Song.create({
         id: id,
         title: title,
         artist: artist,
         game_edition: edition,
-        cover_image: imagePath // Salva o caminho gerado no banco
+        cover_image: imagePath
     });
 };
 
 const seed = async () => {
     try {
         await sequelize.sync({ force: true });
-        console.log('--- Tabelas limpas e recriadas ---');
+        console.log('Tabelas limpas e recriadas');
 
-        // 1. Criar Jogos
         await Game.create({
             edition: 4,
             title: 'Just Dance 4',
@@ -49,10 +46,7 @@ const seed = async () => {
             title: 'Just Dance 2022',
             cover_image: '/images/games/2022.webp'
         });
-        console.log('--- Jogos criados ---');
-
-        // 2. Criar Músicas (Usando nossa função inteligente)
-        // Note que não precisamos mais escrever o caminho da imagem!
+        console.log('Jogos criados');
         
         // Músicas do JD 4
         await createSongHelper('CallMeMaybe', 'Call Me Maybe', 'Carly Rae Jepsen', 4);
@@ -62,7 +56,10 @@ const seed = async () => {
         await createSongHelper('MakesYouBeautifulQUAT', 'What Makes You Beautiful', 'One Direction', 4);
         await createSongHelper('HotForMe', 'Hot For Me', 'A.K.A', 4);
         await createSongHelper('KetchupSong', 'Aserejé (The Ketchup Song)', 'Las Ketchup', 4);
-
+        await createSongHelper('HitEmUp', 'Hit Em Up Style (Oops!)', 'Blu Cantrell', 4);
+        await createSongHelper('Americano', 'We No Speak Americano', 'Hit The Electro Beat', 4);
+        await createSongHelper('IDidItAgainQUAT', 'Oops!... I Did It Again', 'The Girly Team', 4);
+        await createSongHelper('BeautyAndABeat', 'Beauty And A Beat', 'Justin Bieber ft. Nicki Minaj', 4);
 
         // Músicas do JD 2014
         await createSongHelper('KissYou', 'Kiss You', 'One Direction', 2014);
@@ -86,16 +83,14 @@ const seed = async () => {
         await createSongHelper('BlackMamALT', 'Black Mamba', 'aespa', 2022)
 
         
-        console.log('--- Músicas criadas ---');
+        console.log('Músicas criadas');
 
-        // 3. Criar Usuário
         const user = await User.create({ 
             username: 'Player1', 
             email: 'test@test.com', 
-            password: '$2a$10$6js45HvHVEbOYeRwXLUEdubaPzBVcGXNxli9nJj1/xaTdGiAjY7kC',
+            password: '$2a$10$6js45HvHVEbOYeRwXLUEdubaPzBVcGXNxli9nJj1/xaTdGiAjY7kC', /* A senha é "123", mas está hasheada aqui */
         });
 
-        // 4. Criar Score
         await Score.create({
             user_id: user.id,
             song_id: 'CallMeMaybe', 
@@ -104,11 +99,11 @@ const seed = async () => {
             platform: 'Wii U',
             input_method: 'Wiimote'
         });
-        console.log('--- Pontuação criada ---');
+        console.log('Pontuação criada');
 
-        console.log('✅ DADOS DE TESTE INSERIDOS COM SUCESSO!');
+        console.log('Dados inseridos com sucesso');
     } catch (error) {
-        console.error('❌ Erro ao rodar seed:', error);
+        console.error('Erro:', error);
     } finally {
         await sequelize.close();
     }
