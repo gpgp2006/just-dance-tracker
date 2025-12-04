@@ -42,7 +42,7 @@ node index.js
 
 3. Configurar o front-end
 
-Em um outro terminal, entre na pasta principal do projeto, no lugar onde baixou.
+Em um outro terminal, entre na pasta principal do projeto, no local onde baixou.
 
 Em seguida, entre na pasta do cliente e instale as dependências
 
