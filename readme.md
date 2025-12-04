@@ -138,6 +138,14 @@ Por fim, nas edições de 2018 até as mais recentes, a quantidade de estrelas s
 
 Com isso em mente, é possível perceber que dos Just Dances adicionados, o 4, 2014 e 2015 só vão até 5 estrelas. O 2017 vai até Superstar e o 2022 vai até Megastar.
 
+# TODO
+- Adicionar menu de músicas para poder incluir alternativas, DLCs, mash-ups, etc.
+- Adicionara músicas alternativas, DLCs, mash-ups, etc.
+- Adicionar spin-offs, como Just Dance Wii e Greatest Hits
+- Atualizar métodos de pontuação para o 2023 e acima
+- Adicionar Just Dance Plus (somente exclusivas)
+- Adicionar filtro para músicas exclusivas, sejam regionais ou por plataforma, como Cercavo Amore e Domino, respectivamente
+
 # Aviso legal
 Este projeto ("Just Dance Tracker") é uma aplicação desenvolvida estritamente para fins acadêmicos e educacionais.
 
