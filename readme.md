@@ -116,3 +116,14 @@ Na edição de 2017, se você colocar qualquer valor maior que 11000, será some
 Por fim, nas edições de 2018 até as mais recentes, a quantidade de estrelas seguem os valores da tabela acima.
 
 Com isso em mente, é possível perceber que dos Just Dances adicionados, o 4, 2014 e 2015 só vão até 5 estrelas. O 2017 vai até Superstar e o 2022 vai até Megastar.
+
+# Aviso legal
+Este projeto ("Just Dance Tracker") é uma aplicação desenvolvida estritamente para fins acadêmicos e educacionais.
+
+Não afiliação:
+O desenvolvedor deste projeto não possui qualquer vínculo, afiliação, patrocínio ou endosso da Ubisoft Entertainment, da equipe de desenvolvimento do Just Dance, ou de suas subsidiárias. Just Dance® é uma marca registrada da Ubisoft Entertainment. Todos os direitos reservados aos respectivos proprietários.
+
+Uso de Imagens e Fair Use:
+Os materiais visuais utilizados (como capas de álbuns, ícones de jogos e logotipos) foram obtidos através da comunidade Just Dance Wiki (Fandom) e são utilizados neste projeto sob os princípios de uso aceitável.
+
+No Brasil, a utilização destas obras sem intuito de lucro e para fins de estudo está amparada pela Lei de Direitos Autorais (Lei nº 9.610, de 19 de fevereiro de 1998), especificamente no Artigo 46, que estabelece que não constitui ofensa aos direitos autorais a citação de passagens para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir.
