@@ -11,6 +11,12 @@ const BASE_PLATFORM_INPUTS = {
   Switch: ["Joy-Con", "Phone App"],
 };
 
+const NEXT = {
+  "Xbox Series X/S": ["Phone App", "Camera App"],
+  PS5: ["Phone App", "Camera App"],
+  Switch: ["Joy-Con", "Phone App", "Camera App"],
+};
+
 const EXCEPTIONS = {
   4: {
     "Wii U": ["Wiimote"],
@@ -21,6 +27,10 @@ const EXCEPTIONS = {
     PS4: ["PS Move", "PS Camera"],
     "Wii U": ["Wiimote"],
   },
+  2023: NEXT,
+  2024: NEXT,
+  2025: NEXT,
+  2026: NEXT
 };
 
 export const GAME_PLATFORMS = {
