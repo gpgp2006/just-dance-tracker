@@ -55,7 +55,7 @@ Então, por fim, inicie a aplicação, com
 ```
 npm run dev
 ```
-4. O terminal mostrará um link (provavelmente [este](http://localhost:5173))
+4. O terminal mostrará um link (provavelmente [este](http://localhost:5173)). Entre nesse link para acessar o site.
 
 
 # Como utilizar
