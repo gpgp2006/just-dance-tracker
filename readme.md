@@ -1,6 +1,8 @@
 # Just Dance Tracker
 Aplicação web para registrar e organizar pontuações da série de jogos Just Dance. O sistema permite filtrar históricos por edição, plataforma e método de pontuação.
 
+Trabalho apresentado ao Curso Superior de Bacharelado em Ciência da Computação do Campus Pinhais, do Instituto Federal do Paraná, como requisito parcial para aprovação no componente curricular Programação de Aplicações Web. Feito pelo aluno Gabriel Gaspar.
+
 # Pré-requisitos
 Para poder executar este projeto, é necessário que tenha o Node.js instalado.
 
