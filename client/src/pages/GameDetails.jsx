@@ -90,7 +90,7 @@ function GameDetails() {
             htmlFor="editModeSwitch"
             style={{ cursor: "pointer" }}
           >
-            {isEditMode ? "Modo Edição: ATIVADO" : "Modo Visualização"}
+            {isEditMode ? "Voltar para Modo Visualização" : "Ativar Modo de Edição"}
           </label>
         </div>
       </div>
@@ -179,8 +179,8 @@ function GameDetails() {
             <div className="col-md-6 mt-3 text-end d-flex align-items-end justify-content-end">
               <small className="text-muted fst-italic">
                 {isEditMode
-                  ? "✨ Você pode adicionar novas pontuações."
-                  : "🔒 Habilite o modo edição para alterar pontuações."}
+                  ? "Você já pode adicionar novas pontuações."
+                  : "Habilite o modo edição para alterar pontuações."}
               </small>
             </div>
           </div>
