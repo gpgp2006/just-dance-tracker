@@ -17,37 +17,72 @@ const seed = async () => {
         await sequelize.sync({ force: true });
         console.log('Tabelas limpas e recriadas');
 
-        await Game.create({
-            edition: 4,
-            title: 'Just Dance 4',
-            cover_image: '/images/games/4.webp'
-        });
+        const edicoes = [1, 2, 3, 4, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
 
-        await Game.create({
-            edition: 2014,
-            title: 'Just Dance 2014',
-            cover_image: '/images/games/2014.webp'
-        });
-
-        await Game.create({
-            edition: 2015,
-            title: 'Just Dance 2015',
-            cover_image: '/images/games/2015.webp'
-        });
-
-        await Game.create({
-            edition: 2017,
-            title: 'Just Dance 2017',
-            cover_image: '/images/games/2017.webp'
-        })
-
-        await Game.create({
-            edition: 2022,
-            title: 'Just Dance 2022',
-            cover_image: '/images/games/2022.webp'
-        });
+        for (const edition of edicoes) {
+            await Game.create({
+                edition,
+                title: `Just Dance ${edition}`,
+                cover_image: `/images/games/${edition}.webp`
+            });
+        }
         console.log('Jogos criados');
         
+        // Músicas do JD 3
+        await createSongHelper('CaliforniaGurls', 'California Gurls', 'Katy Perry featuring Snoop Dogg', 3);
+        await createSongHelper('TakeOnMe', 'Take On Me', 'a-ha', 3);
+        await createSongHelper('PumpIt', 'Pump It', 'The Black Eyed Peas', 3);
+        await createSongHelper('Lollipop', 'Lollipop', 'MIKA', 3);
+        await createSongHelper('Promiscuous', 'Promiscuous', 'Nelly Furtado featuring Timbaland', 3);
+        await createSongHelper('BabyOneMoreQUAT', 'Baby One More Time', 'Britney Spears(The Girly Team)', 3);
+        await createSongHelper('PriceTag', 'Price Tag', 'Jessie J featuring B.o.B.', 3);
+        await createSongHelper('FeelLikeDancing', 'I Don’t Feel Like Dancin’', 'Scissor Sisters', 3);
+        await createSongHelper('MarciaBaila', 'Marcia Baila', 'Les Rita Mitsouko', 3);
+        await createSongHelper('BarbraStreisand', 'Barbra Streisand', 'Duck Sauce', 3);
+        await createSongHelper('VenusB', 'Venus', 'Bananarama', 3);
+        await createSongHelper('NoLimit', 'No Limit', '2 Unlimited', 3);
+        await createSongHelper('DynamiteQUAT', 'Dynamite', 'Taio Cruz', 3);
+        await createSongHelper('TeenageDream', 'Teenage Dream', 'Katy Perry', 3);
+        await createSongHelper('OnlyGirl', 'Only Girl (In The World)', 'Rihanna', 3);
+        await createSongHelper('ForgetYou', 'Forget You', 'CeeLo Green', 3);
+        await createSongHelper('JumpGA', 'Jump (For My Love)', 'Girls Aloud', 3);
+        await createSongHelper('GonnaMake', 'Gonna Make You Sweat (Everybody Dance Now)', 'C+C Music Factory feat. Freedom Williams(Sweat Invaders)', 3);
+        await createSongHelper('WhatYouWait', 'What You Waiting For?', 'Gwen Stefani', 3);
+        await createSongHelper('CrazyLittle', 'Crazy Little Thing Called Love', 'Queen', 3);
+        await createSongHelper('Think', 'Think', 'Aretha Franklin(The London Theatre Orchestra & Cast)', 3);
+        await createSongHelper('BoogieWonderQUAT', 'Boogie Wonderland', 'Earth, Wind & Fire feat. The Emotions(Groove Century)', 3);
+        await createSongHelper('HeyBoy', 'Hey Boy Hey Girl', 'The Chemical Brothers', 3);
+        await createSongHelper('ET', 'E.T.', 'Katy Perry', 3);
+        await createSongHelper('Boom', 'Boom', 'MC Magico and Alex Wilson(Reggaeton Storm)', 3);
+        await createSongHelper('DaFunk', 'Da Funk', 'Daft Punk', 3);
+        await createSongHelper('IFeelLove', 'I Feel Love', 'Donna Summer', 3);
+        await createSongHelper('GiveMeMore', 'Dance All Nite', 'Anja', 3);
+        await createSongHelper('SpectronizerQUAT', 'Spectronizer', 'Sentai Express', 3);
+        await createSongHelper('PartyRock', 'Party Rock Anthem', 'LMFAO featuring Lauren Bennett and GoonRock', 3);
+        await createSongHelper('GonnaGoMyWay', 'Are You Gonna Go My Way', 'Lenny Kravitz', 3);
+        await createSongHelper('lo1000', 'Land Of 1000 Dances', 'Wilson Pickett', 3);
+        await createSongHelper('GotMeDancing', 'She’s Got Me Dancing', 'Tommy Sparks', 3);
+        await createSongHelper('JamaicanDance', 'Jamaican Dance', 'Konshens', 3);
+        await createSongHelper('ToTheMall', 'Let\'s Go To The Mall', 'Cobie Smulders(as Robin Sparkles)', 3);
+        await createSongHelper('NightBoatQUAT', 'Night Boat To Cairo', 'Madness', 3);
+        await createSongHelper('SoExcited', 'I\'m So Excited', 'The Pointer Sisters', 3);
+        await createSongHelper('VideoKilled', 'Video Killed the Radio Star', 'The Buggles', 3);
+        await createSongHelper('Kurio', 'Kurio ko uddah le jana', 'Lata Mangeshkar and S. P. Balasubrahmanyam (Bollywood Rainbow)', 3);
+        await createSongHelper('GiddyOnUp', 'Giddy on Up (Giddy on Out)', 'Laura Bell Bundy', 3);
+        await createSongHelper('IWasMadeQUAT', 'I Was Made For Lovin\' You', 'Kiss', 3);
+        await createSongHelper('TightRope', 'Tightrope (Solo Version)', 'Janelle Monae', 3);
+        await createSongHelper('Airplanes', 'Airplanes', 'B.o.B. ft. Hayley Williams of Paramore', 3);
+        await createSongHelper('BeautifulLiar', 'Beautiful Liar', 'Beyoncé and Shakira(Countdown Mix Masters)', 3);
+        await createSongHelper('Apache', 'Apache (Jump On It)', 'The Sugarhill Gang', 3);
+        await createSongHelper('PataPata', 'Pata Pata', 'Miriam Makeba(African Ladies)', 3);
+        await createSongHelper('Satellite', 'Satellite', 'Lena Meyer-Landrut', 3);
+        await createSongHelper('SomethinStupid', 'Somethin’ Stupid', 'Robbie Williams and Nicole Kidman', 3);
+        await createSongHelper('HalloweenQUAT', 'This is Halloween', 'Danny Elfman', 3);
+        await createSongHelper('JamboMambo', 'Jambo Mambo', 'Ole Orquesta', 3);
+        await createSongHelper('BabyDontStop', 'Baby Don’t Stop Now', 'Anja', 3);
+        await createSongHelper('TwistShakeAss', 'Twist and Shake It', 'Ben Wheeler and Tara Chinn(The Girly Team)', 3);
+        await createSongHelper('SoulSearch', 'Soul Searchin’', 'Groove Century', 3);
+
         // Músicas do JD 4
         await createSongHelper('CallMeMaybe', 'Call Me Maybe', 'Carly Rae Jepsen', 4);
         await createSongHelper('GoodFeeling', 'Good Feeling', 'Flo Rida', 4);
@@ -102,8 +137,55 @@ const seed = async () => {
 
         // Músicas do JD 2014
         await createSongHelper('KissYou', 'Kiss You', 'One Direction', 2014);
-        await createSongHelper('JustDance', 'Just Dance', 'Lady Gaga', 2014);
+        await createSongHelper('JustDance', 'Just Dance', 'Lady Gaga Ft. Colby O’ Donis', 2014);
         await createSongHelper('CarelessWhisper', 'Careless Whisper', 'George Michael', 2014);
+        await createSongHelper('Cmon', 'C’mon', 'Ke$ha', 2014);
+        await createSongHelper('SheWolf', 'She Wolf (Falling to Pieces)', 'David Guetta Ft. Sia', 2014);
+        await createSongHelper('WhatAFeeling', 'Flashdance... What A Feeling', 'Irene Cara(The Girly Team)', 2014);
+        await createSongHelper('PrinceAli', 'Prince Ali', 'Robin Williams(Disney’s Aladdin)', 2014);
+        await createSongHelper('GetLucky', 'Get Lucky', 'Daft Punk Ft. Pharrell Williams', 2014);
+        await createSongHelper('Wild', 'Wild', 'Jessie J ft. Big Sean', 2014);
+        await createSongHelper('Gentleman', 'Gentleman', 'PSY', 2014);
+        await createSongHelper('BlurredLines', 'Blurred Lines', 'Robin Thicke ft. Pharrell Williams', 2014);
+        await createSongHelper('Ghostbusters', 'Ghostbusters', 'Ray Parker Jr.', 2014);
+        await createSongHelper('IWillSurvive', 'I Will Survive', 'Gloria Gaynor', 2014);
+        await createSongHelper('ThatPower', '#thatPOWER', 'will.i.am Ft. Justin Bieber', 2014);
+        await createSongHelper('Limbo', 'Limbo', 'Daddy Yankee', 2014);
+        await createSongHelper('TheWay', 'The Way', 'Ariana Grande Ft. Mac Miller', 2014);
+        await createSongHelper('PoundTheAlarm', 'Pound The Alarm', 'Nicki Minaj', 2014);
+        await createSongHelper('LoveBoat', 'Love Boat', 'Jack Jones (Frankie Bostello)', 2014);
+        await createSongHelper('Troublemaker', 'Troublemaker', 'Olly Murs Ft. Flo Rida', 2014);
+        await createSongHelper('LimaGolf1', 'Applause', 'Lady Gaga', 2014);
+        await createSongHelper('BlameIt', 'Blame It on the Boogie', 'Mick Jackson', 2014);
+        await createSongHelper('FeelSoRight', 'Feel So Right', 'Imposs ft. Konshens', 2014);
+        await createSongHelper('SummerTime', 'In the Summertime', 'Mungo Jerry', 2014);
+        await createSongHelper('FineChina', 'Fine China', 'Chris Brown', 2014);
+        await createSongHelper('Gigolo', 'Just A Gigolo', 'Louis Prima', 2014);
+        await createSongHelper('WhereHaveYou', 'Where Have You Been', 'Rihanna', 2014);
+        await createSongHelper('Maria', 'María', 'Ricky Martin', 2014);
+        await createSongHelper('GimmeGimme', 'Gimme! Gimme! Gimme! (A Man After Midnight)', 'ABBA', 2014);
+        await createSongHelper('Moskau', 'Moskau', 'Dschinghis Khan(Dancing Bros.)', 2014);
+        await createSongHelper('FeelThisMoment', 'Feel This Moment', 'Pitbull Ft. Christina Aguilera', 2014);
+        await createSongHelper('FollowTheLeader', 'Follow the Leader', 'Wisin & Yandel Ft. Jennifer Lopez', 2014);
+        await createSongHelper('YMCA', 'Y.M.C.A.', 'Village People', 2014);
+        await createSongHelper('TurnUpTheLove', 'Turn Up The Love', 'Far East Movement Ft. Cover Drive', 2014);
+        await createSongHelper('CouldYouBeLoved', 'Could You Be Loved', 'Bob Marley', 2014);
+        await createSongHelper('Starships', 'Starships', 'Nicki Minaj', 2014);
+        await createSongHelper('Luftballons', '99 Luftballons', 'NENA (Rutschen Planeten)', 2014);
+        await createSongHelper('Candy', 'Candy', 'Robbie Williams', 2014);
+        await createSongHelper('IKissed', 'I Kissed a Girl', 'Katy Perry', 2014);
+        await createSongHelper('Zagreb', 'Isidora', 'Bog Bog Orkestar', 2014);
+        await createSongHelper('RichGirl', 'Rich Girl', 'Gwen Stefani Ft. Eve', 2014);
+        await createSongHelper('ItsYou', 'It’s You', 'Duck Sauce', 2014);
+        await createSongHelper('Aquarius', 'Aquarius/Let the Sunshine In', 'The 5th Dimension(The Sunlight Shakers)', 2014);
+        await createSongHelper('Misunderstood', 'Miss Understood', 'Sammie', 2014);
+        await createSongHelper('RobotRock', 'Nitro Bot', 'Sentai Express', 2014);
+        await createSongHelper('OtherSide', 'The Other Side', 'Jason Derulo', 2014);
+        await createSongHelper('Dancando', 'Dançando', 'Ivete Sangalo', 2014);
+        await createSongHelper('Danse', 'Danse (Pop Version)', 'Tal', 2014);
+        await createSongHelper('Alfonso', 'Alfonso Signorini (Eroe Nazionale)', 'Fedez', 2014)
+        await createSongHelper('SafeAndSound', 'Safe And Sound', 'Capital Cities', 2014);
+        await createSongHelper('WakingUp', 'Waking Up in Vegas', 'Katy Perry', 2014);
 
         // Músicas do JD 2015
         await createSongHelper('Problem', 'Problem', 'Ariana Grande ft. Iggy Azalea & Big Sean', 2015);

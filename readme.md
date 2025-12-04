@@ -3,6 +3,9 @@ Aplicação web para registrar e organizar pontuações da série de jogos Just 
 
 Trabalho apresentado ao Curso Superior de Bacharelado em Ciência da Computação do Campus Pinhais, do Instituto Federal do Paraná, como requisito parcial para aprovação no componente curricular Programação de Aplicações Web. Feito pelo aluno Gabriel Gaspar.
 
+# AVISO AO PROFESSOR
+Eu estou fazendo algumas alterações neste trabalho, após a data de entrega. Por enquanto, da parte de código, eu editei somente o "seed.js", trocando o jeito que um jogo é criado dentro do banco de dados. Ao invés de fazer um por um, eu troquei para um laço for, para facilitar a inserção dos jogos. Também estou adicionando todas as músicas de todos os jogos, após fazer um scraper, para o site ficar completo. Por fim, eu também fiz alterações no "gameRules.js", para poder adicionar todas as plataformas em que cada edição está disponível. As outras alterações são reservadas a este readme.md e a inserção de novas imagens.
+
 # Pré-requisitos
 Para poder executar este projeto, é necessário que tenha o Node.js instalado.
 
@@ -90,6 +93,22 @@ Também não existe nenhuma conta de administrador que permita adicionar ediçõ
 
 ## Banco de dados
 Caso tenha algum problema com o banco de dados, você pode rodar ```node seed.js``` dentro da pasta ```just-dance-tracker/server```, para reconstruir o banco de dados. Todos os dados inseridos previamente, como usuários e pontuações, serão deletados e o banco de dados voltará ao seu estado padrão.
+
+## Tecnologias utilizadas
+
+# Front-end
+- React
+- Vite
+- Bootstrap 5
+- Axios
+
+# Back-end
+- Node.js
+- Express (Sequelize, Bcrypt.js e CORS)
+
+# Banco de dados
+- SQLite
+- SQLite3 (Driver)
 
 ## Informações extras
 Eu não adicionei todas as músicas de todos os jogos porque, para fazer isso, eu preciso fazer manualmente. Eu preciso inserir o nome de cada música, artista, ID interno do jogo e baixar a imagem referente à música, o que demanda muito tempo sem um scraper.
