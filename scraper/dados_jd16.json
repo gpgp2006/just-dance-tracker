@@ -1,0 +1,266 @@
+[
+    {
+        "id_code": "AboutThatBass",
+        "titulo": "All About That Bass",
+        "artista": "Meghan Trainor",
+        "arquivo": "AboutThatBass.webp"
+    },
+    {
+        "id_code": "NoControl",
+        "titulo": "No Control",
+        "artista": "One Direction",
+        "arquivo": "NoControl.webp"
+    },
+    {
+        "id_code": "IGotAFeeling",
+        "titulo": "I Gotta Feeling",
+        "artista": "The Black Eyed Peas",
+        "arquivo": "IGotAFeeling.webp"
+    },
+    {
+        "id_code": "Fancy",
+        "titulo": "Fancy",
+        "artista": "Iggy Azalea ft. Charli XCX",
+        "arquivo": "Fancy.webp"
+    },
+    {
+        "id_code": "TheseBoots",
+        "titulo": "These Boots Are Made For Walking",
+        "artista": "Nancy Sinatra(The Girly Team)",
+        "arquivo": "TheseBoots.webp"
+    },
+    {
+        "id_code": "Animals",
+        "titulo": "Animals",
+        "artista": "Martin Garrix",
+        "arquivo": "Animals.webp"
+    },
+    {
+        "id_code": "UptownFunk",
+        "titulo": "Uptown Funk",
+        "artista": "Mark Ronson ft. Bruno Mars",
+        "arquivo": "UptownFunk.webp"
+    },
+    {
+        "id_code": "AngryBirds",
+        "titulo": "Balkan Blast Remix",
+        "artista": "Angry Birds",
+        "arquivo": "AngryBirds.webp"
+    },
+    {
+        "id_code": "Heartbeat",
+        "titulo": "Heartbeat Song",
+        "artista": "Kelly Clarkson",
+        "arquivo": "Heartbeat.webp"
+    },
+    {
+        "id_code": "HeyMama",
+        "titulo": "Hey Mama",
+        "artista": "David Guetta ft. Nicki Minaj, Bebe Rexha & Afrojack",
+        "arquivo": "HeyMama.webp"
+    },
+    {
+        "id_code": "LevanPolkka",
+        "titulo": "Ievan Polkka",
+        "artista": "Hatsune Miku",
+        "arquivo": "LevanPolkka.webp"
+    },
+    {
+        "id_code": "TheChoice",
+        "titulo": "The Choice Is Yours",
+        "artista": "Darius Dante Van Dijk",
+        "arquivo": "TheChoice.webp"
+    },
+    {
+        "id_code": "Fun",
+        "titulo": "Fun",
+        "artista": "Pitbull ft. Chris Brown",
+        "arquivo": "Fun.webp"
+    },
+    {
+        "id_code": "WilliamTell",
+        "titulo": "William Tell Overture",
+        "artista": "Rossini",
+        "arquivo": "WilliamTell.webp"
+    },
+    {
+        "id_code": "Lights",
+        "titulo": "Lights",
+        "artista": "Ellie Goulding",
+        "arquivo": "Lights.webp"
+    },
+    {
+        "id_code": "Chiwawa",
+        "titulo": "Chiwawa",
+        "artista": "Wanko Ni Mero Mero",
+        "arquivo": "Chiwawa.webp"
+    },
+    {
+        "id_code": "YouNeverCan",
+        "titulo": "You Never Can Tell",
+        "artista": "Chuck Berry(A. Caveman & The Backseats)",
+        "arquivo": "YouNeverCan.webp"
+    },
+    {
+        "id_code": "BornThisWay",
+        "titulo": "Born This Way",
+        "artista": "Lady Gaga",
+        "arquivo": "BornThisWay.webp"
+    },
+    {
+        "id_code": "KaboomPow",
+        "titulo": "Kaboom Pow",
+        "artista": "Nikki Yanofsky",
+        "arquivo": "KaboomPow.webp"
+    },
+    {
+        "id_code": "WhenTheRain",
+        "titulo": "When The Rain Begins To Fall",
+        "artista": "Jermaine Jackson and Pia Zadora(Sky Trucking)",
+        "arquivo": "WhenTheRain.webp"
+    },
+    {
+        "id_code": "Stargate",
+        "titulo": "Same Old Love",
+        "artista": "Selena Gomez",
+        "arquivo": "Stargate.webp"
+    },
+    {
+        "id_code": "Coolos",
+        "titulo": "Cool For The Summer",
+        "artista": "Demi Lovato",
+        "arquivo": "Coolos.webp"
+    },
+    {
+        "id_code": "WantToWantMe",
+        "titulo": "Want To Want Me",
+        "artista": "Jason Derulo",
+        "arquivo": "WantToWantMe.webp"
+    },
+    {
+        "id_code": "UnderTheSea",
+        "titulo": "Under the Sea",
+        "artista": "Samuel E. Wright(Disney’s \"The Little Mermaid\")",
+        "arquivo": "UnderTheSea.webp"
+    },
+    {
+        "id_code": "ThisIsHow",
+        "titulo": "This Is How We Do",
+        "artista": "Katy Perry",
+        "arquivo": "ThisIsHow.webp"
+    },
+    {
+        "id_code": "HitTheRoad",
+        "titulo": "Hit The Road Jack",
+        "artista": "Ray Charles(Charles Percy)",
+        "arquivo": "HitTheRoad.webp"
+    },
+    {
+        "id_code": "JuntoATi",
+        "titulo": "Junto a Ti",
+        "artista": "Martina Stoessel & Lodovica Comello (Disney’s \"Violetta\")",
+        "arquivo": "JuntoATi.webp"
+    },
+    {
+        "id_code": "Blame",
+        "titulo": "Blame",
+        "artista": "Calvin Harris ft. John Newman",
+        "arquivo": "Blame.webp"
+    },
+    {
+        "id_code": "SaintPatrick",
+        "titulo": "Irish Meadow Dance",
+        "artista": "O'Callaghan’s Orchestra",
+        "arquivo": "SaintPatrick.webp"
+    },
+    {
+        "id_code": "Rabiosa",
+        "titulo": "Rabiosa",
+        "artista": "Shakira ft. El Cata",
+        "arquivo": "Rabiosa.webp"
+    },
+    {
+        "id_code": "Circus",
+        "titulo": "Circus",
+        "artista": "Britney Spears",
+        "arquivo": "Circus.webp"
+    },
+    {
+        "id_code": "YoureTheOne",
+        "titulo": "You’re The One That I Want",
+        "artista": "John Travolta & Olivia Newton-John(From The MovieGrease)",
+        "arquivo": "YoureTheOne.webp"
+    },
+    {
+        "id_code": "Hangover",
+        "titulo": "Hangover (BaBaBa)",
+        "artista": "Buraka Som Sistema",
+        "arquivo": "Hangover.webp"
+    },
+    {
+        "id_code": "Albatraoz",
+        "titulo": "I’m An Albatraoz",
+        "artista": "AronChupa",
+        "arquivo": "Albatraoz.webp"
+    },
+    {
+        "id_code": "KungFu",
+        "titulo": "Kool Kontact",
+        "artista": "Glorious Black Belts",
+        "arquivo": "KungFu.webp"
+    },
+    {
+        "id_code": "Teacher",
+        "titulo": "Teacher",
+        "artista": "Nick Jonas",
+        "arquivo": "Teacher.webp"
+    },
+    {
+        "id_code": "StuckOnAFeeling",
+        "titulo": "Stuck On A Feeling",
+        "artista": "Prince Royce",
+        "arquivo": "StuckOnAFeeling.webp"
+    },
+    {
+        "id_code": "BoysBoys",
+        "titulo": "Boys (Summertime Love)",
+        "artista": "Sabrina Salerno (The Lemon Cubes)",
+        "arquivo": "BoysBoys.webp"
+    },
+    {
+        "id_code": "ElectroMambo",
+        "titulo": "Drop the Mambo",
+        "artista": "Diva Carmina",
+        "arquivo": "ElectroMambo.webp"
+    },
+    {
+        "id_code": "Gibberish",
+        "titulo": "Gibberish",
+        "artista": "MAX",
+        "arquivo": "Gibberish.webp"
+    },
+    {
+        "id_code": "CopaCabana",
+        "titulo": "Copacabana",
+        "artista": "Barry Manilow (Frankie Bostello)",
+        "arquivo": "CopaCabana.webp"
+    },
+    {
+        "id_code": "LetsGroove",
+        "titulo": "Let’s Groove",
+        "artista": "Earth, Wind & Fire (Equinox Stars)",
+        "arquivo": "LetsGroove.webp"
+    },
+    {
+        "id_code": "StadiumFlow",
+        "titulo": "Stadium Flow",
+        "artista": "Imposs",
+        "arquivo": "StadiumFlow.webp"
+    },
+    {
+        "id_code": "Ulibayssia",
+        "titulo": "Smile (Улыбайся)",
+        "artista": "IOWA",
+        "arquivo": "Ulibayssia.webp"
+    }
+]

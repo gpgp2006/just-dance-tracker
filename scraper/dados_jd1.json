@@ -1,0 +1,194 @@
+[
+    {
+        "id_code": "GirlsFun",
+        "titulo": "Girls Just Want to Have Fun",
+        "artista": "Cyndi Lauper",
+        "arquivo": "GirlsFun.webp"
+    },
+    {
+        "id_code": "Ring",
+        "titulo": "Ring My Bell",
+        "artista": "Anita Ward",
+        "arquivo": "Ring.webp"
+    },
+    {
+        "id_code": "Conversation",
+        "titulo": "A Little Less Conversation (JXL Radio Edit Remix)",
+        "artista": "Elvis Presley vs. JXL",
+        "arquivo": "Conversation.webp"
+    },
+    {
+        "id_code": "Cotton",
+        "titulo": "Cotton Eye Joe",
+        "artista": "Rednex",
+        "arquivo": "Cotton.webp"
+    },
+    {
+        "id_code": "SurfinBird",
+        "titulo": "Surfin’ Bird",
+        "artista": "The Trashmen",
+        "arquivo": "SurfinBird.webp"
+    },
+    {
+        "id_code": "Heart",
+        "titulo": "Heart of Glass",
+        "artista": "Blondie",
+        "arquivo": "Heart.webp"
+    },
+    {
+        "id_code": "Womanizer",
+        "titulo": "Womanizer",
+        "artista": "Britney Spears(The Gym All-Stars)",
+        "arquivo": "Womanizer.webp"
+    },
+    {
+        "id_code": "Groove",
+        "titulo": "Groove Is in the Heart",
+        "artista": "Deee-Lite",
+        "arquivo": "Groove.webp"
+    },
+    {
+        "id_code": "JerkItOut",
+        "titulo": "Jerk It Out",
+        "artista": "Caesars",
+        "arquivo": "JerkItOut.webp"
+    },
+    {
+        "id_code": "MoveIt",
+        "titulo": "I Like to Move It (Radio Mix)",
+        "artista": "Reel 2 Real feat. The Mad Stuntman",
+        "arquivo": "MoveIt.webp"
+    },
+    {
+        "id_code": "HotNCold",
+        "titulo": "Hot N Cold",
+        "artista": "Katy Perry",
+        "arquivo": "HotNCold.webp"
+    },
+    {
+        "id_code": "Potato",
+        "titulo": "Mashed Potato Time",
+        "artista": "Dee Dee Sharp",
+        "arquivo": "Potato.webp"
+    },
+    {
+        "id_code": "GirlsBoys",
+        "titulo": "Girls & Boys",
+        "artista": "Blur",
+        "arquivo": "GirlsBoys.webp"
+    },
+    {
+        "id_code": "Fame",
+        "titulo": "Fame",
+        "artista": "Irene Cara(In The Style of Irene Cara)",
+        "arquivo": "Fame.webp"
+    },
+    {
+        "id_code": "Lump",
+        "titulo": "Lump",
+        "artista": "The Presidents of the United States of America",
+        "arquivo": "Lump.webp"
+    },
+    {
+        "id_code": "Kids",
+        "titulo": "Kids in America",
+        "artista": "Kim Wilde",
+        "arquivo": "Kids.webp"
+    },
+    {
+        "id_code": "Pump",
+        "titulo": "Pump Up the Jam",
+        "artista": "Technotronic",
+        "arquivo": "Pump.webp"
+    },
+    {
+        "id_code": "GetAround",
+        "titulo": "I Get Around",
+        "artista": "The Beach Boys",
+        "arquivo": "GetAround.webp"
+    },
+    {
+        "id_code": "Freak",
+        "titulo": "Le Freak",
+        "artista": "Chic",
+        "arquivo": "Freak.webp"
+    },
+    {
+        "id_code": "ThatsTheWay",
+        "titulo": "That’s the Way (I Like It)",
+        "artista": "KC and the Sunshine Band",
+        "arquivo": "ThatsTheWay.webp"
+    },
+    {
+        "id_code": "Louie",
+        "titulo": "Louie Louie",
+        "artista": "Iggy Pop",
+        "arquivo": "Louie.webp"
+    },
+    {
+        "id_code": "Funplex",
+        "titulo": "Funplex (CSS Remix)",
+        "artista": "The B-52's",
+        "arquivo": "Funplex.webp"
+    },
+    {
+        "id_code": "JinGoLoBa",
+        "titulo": "Jin Go Lo Ba",
+        "artista": "Fatboy Slim",
+        "arquivo": "JinGoLoBa.webp"
+    },
+    {
+        "id_code": "Dare",
+        "titulo": "Dare",
+        "artista": "Gorillaz",
+        "arquivo": "Dare.webp"
+    },
+    {
+        "id_code": "Bebe",
+        "titulo": "Bebe",
+        "artista": "Divine Brown",
+        "arquivo": "Bebe.webp"
+    },
+    {
+        "id_code": "Eye",
+        "titulo": "Eye of the Tiger",
+        "artista": "Survivor",
+        "arquivo": "Eye.webp"
+    },
+    {
+        "id_code": "CantGetYou",
+        "titulo": "Can’t Get You Out of My Head",
+        "artista": "Kylie Minogue",
+        "arquivo": "CantGetYou.webp"
+    },
+    {
+        "id_code": "Acceptable",
+        "titulo": "Acceptable in the 80s",
+        "artista": "Calvin Harris",
+        "arquivo": "Acceptable.webp"
+    },
+    {
+        "id_code": "DogsOut",
+        "titulo": "Who Let the Dogs Out?",
+        "artista": "Baha Men",
+        "arquivo": "DogsOut.webp"
+    },
+    {
+        "id_code": "Wannabe",
+        "titulo": "Wannabe",
+        "artista": "Spice Girls",
+        "arquivo": "Wannabe.webp"
+    },
+    {
+        "id_code": "Stepbystep",
+        "titulo": "Step by Step",
+        "artista": "New Kids on the Block",
+        "arquivo": "Stepbystep.webp"
+    },
+    {
+        "id_code": "UCanttouch",
+        "titulo": "U Can’t Touch This",
+        "artista": "MC Hammer",
+        "arquivo": "UCanttouch.webp"
+    }
+]

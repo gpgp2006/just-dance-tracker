@@ -1,0 +1,284 @@
+[
+    {
+        "id_code": "ItsRainingMen",
+        "titulo": "It’s Raining Men",
+        "artista": "The Weather Girls",
+        "arquivo": "ItsRainingMen.webp"
+    },
+    {
+        "id_code": "TikTok",
+        "titulo": "TiK ToK",
+        "artista": "Kesha",
+        "arquivo": "TikTok.webp"
+    },
+    {
+        "id_code": "APunk",
+        "titulo": "A-Punk",
+        "artista": "Vampire Weekend",
+        "arquivo": "APunk.webp"
+    },
+    {
+        "id_code": "IGotYou",
+        "titulo": "I Got You (I Feel Good)",
+        "artista": "James Brown",
+        "arquivo": "IGotYou.webp"
+    },
+    {
+        "id_code": "WhenIGrowUp",
+        "titulo": "When I Grow Up",
+        "artista": "The Pussycat Dolls",
+        "arquivo": "WhenIGrowUp.webp"
+    },
+    {
+        "id_code": "Toxic",
+        "titulo": "Toxic",
+        "artista": "Britney Spears(The Hit Crew)",
+        "arquivo": "Toxic.webp"
+    },
+    {
+        "id_code": "Idealistic",
+        "titulo": "Idealistic",
+        "artista": "Digitalism",
+        "arquivo": "Idealistic.webp"
+    },
+    {
+        "id_code": "GirlFriend",
+        "titulo": "Girlfriend",
+        "artista": "Avril Lavigne",
+        "arquivo": "GirlFriend.webp"
+    },
+    {
+        "id_code": "SOS",
+        "titulo": "S.O.S.",
+        "artista": "Rihanna",
+        "arquivo": "SOS.webp"
+    },
+    {
+        "id_code": "ElectroTribal",
+        "titulo": "Dagomba",
+        "artista": "Sorcerer",
+        "arquivo": "ElectroTribal.webp"
+    },
+    {
+        "id_code": "MoveYourFeet",
+        "titulo": "Move Your Feet",
+        "artista": "Junior Senior",
+        "arquivo": "MoveYourFeet.webp"
+    },
+    {
+        "id_code": "ProudMary",
+        "titulo": "Proud Mary",
+        "artista": "Ike and Tina Turner",
+        "arquivo": "ProudMary.webp"
+    },
+    {
+        "id_code": "HotStuff",
+        "titulo": "Hot Stuff",
+        "artista": "Donna Summer",
+        "arquivo": "HotStuff.webp"
+    },
+    {
+        "id_code": "BigGirl",
+        "titulo": "Big Girl (You Are Beautiful)",
+        "artista": "MIKA",
+        "arquivo": "BigGirl.webp"
+    },
+    {
+        "id_code": "IWantYouBack",
+        "titulo": "I Want You Back",
+        "artista": "The Jackson 5",
+        "arquivo": "IWantYouBack.webp"
+    },
+    {
+        "id_code": "IkoIko",
+        "titulo": "Iko Iko",
+        "artista": "Mardi Gras",
+        "arquivo": "IkoIko.webp"
+    },
+    {
+        "id_code": "Bollywood",
+        "titulo": "Katti Kalandal",
+        "artista": "Bollywood",
+        "arquivo": "Bollywood.webp"
+    },
+    {
+        "id_code": "Holiday",
+        "titulo": "Holiday",
+        "artista": "Madonna(The Hit Crew)",
+        "arquivo": "Holiday.webp"
+    },
+    {
+        "id_code": "CallMe",
+        "titulo": "Call Me",
+        "artista": "Blondie",
+        "arquivo": "CallMe.webp"
+    },
+    {
+        "id_code": "Sway",
+        "titulo": "Sway (Quién Será)",
+        "artista": "Michael Bublé(Marine Band)",
+        "arquivo": "Sway.webp"
+    },
+    {
+        "id_code": "Satisfaction",
+        "titulo": "Satisfaction (Isak Original Extended)",
+        "artista": "Benny Benassi presents \"The Biz\"",
+        "arquivo": "Satisfaction.webp"
+    },
+    {
+        "id_code": "HeyYa",
+        "titulo": "Hey Ya!",
+        "artista": "Outkast",
+        "arquivo": "HeyYa.webp"
+    },
+    {
+        "id_code": "MugsyBaloney",
+        "titulo": "Mugsy Baloney",
+        "artista": "Gert Wilden (Charleston)",
+        "arquivo": "MugsyBaloney.webp"
+    },
+    {
+        "id_code": "BabyGirl",
+        "titulo": "Baby Girl",
+        "artista": "Reggaeton",
+        "arquivo": "BabyGirl.webp"
+    },
+    {
+        "id_code": "JungleBoogie",
+        "titulo": "Jungle Boogie",
+        "artista": "Kool & the Gang(Studio Musicians)",
+        "arquivo": "JungleBoogie.webp"
+    },
+    {
+        "id_code": "CrazyInLove",
+        "titulo": "Crazy in Love",
+        "artista": "Beyoncé ft. Jay-Z(Studio Musicians)",
+        "arquivo": "CrazyInLove.webp"
+    },
+    {
+        "id_code": "SoulBossaNova",
+        "titulo": "Soul Bossa Nova",
+        "artista": "Quincy Jones and His Orchestra",
+        "arquivo": "SoulBossaNova.webp"
+    },
+    {
+        "id_code": "Dance",
+        "titulo": "D.A.N.C.E.",
+        "artista": "Justice",
+        "arquivo": "Dance.webp"
+    },
+    {
+        "id_code": "SympathyDevil",
+        "titulo": "Sympathy for the Devil(Fatboy Slim Remix)",
+        "artista": "The Rolling Stones",
+        "arquivo": "SympathyDevil.webp"
+    },
+    {
+        "id_code": "Rasputin",
+        "titulo": "Rasputin",
+        "artista": "Boney M.",
+        "arquivo": "Rasputin.webp"
+    },
+    {
+        "id_code": "JumpInTheLine",
+        "titulo": "Jump in the Line",
+        "artista": "Harry Belafonte",
+        "arquivo": "JumpInTheLine.webp"
+    },
+    {
+        "id_code": "WakeMeUp",
+        "titulo": "Wake Me Up Before You Go-Go",
+        "artista": "Wham!",
+        "arquivo": "WakeMeUp.webp"
+    },
+    {
+        "id_code": "WalkLike",
+        "titulo": "Walk Like an Egyptian",
+        "artista": "The Bangles",
+        "arquivo": "WalkLike.webp"
+    },
+    {
+        "id_code": "Power",
+        "titulo": "The Power",
+        "artista": "Snap!",
+        "arquivo": "Power.webp"
+    },
+    {
+        "id_code": "Jump",
+        "titulo": "Jump",
+        "artista": "Kris Kross(Studio Allstars)",
+        "arquivo": "Jump.webp"
+    },
+    {
+        "id_code": "MonsterMash",
+        "titulo": "Monster Mash",
+        "artista": "Boris Pickett and The Crypt Kickers(The Frighteners)",
+        "arquivo": "MonsterMash.webp"
+    },
+    {
+        "id_code": "TakeMeOut",
+        "titulo": "Take Me Out",
+        "artista": "Franz Ferdinand",
+        "arquivo": "TakeMeOut.webp"
+    },
+    {
+        "id_code": "ThatsNotMyName",
+        "titulo": "That’s Not My Name",
+        "artista": "The Ting Tings",
+        "arquivo": "ThatsNotMyName.webp"
+    },
+    {
+        "id_code": "ShoopShoop",
+        "titulo": "The Shoop Shoop Song (It’s in His Kiss)",
+        "artista": "Cher",
+        "arquivo": "ShoopShoop.webp"
+    },
+    {
+        "id_code": "CosmicGirl",
+        "titulo": "Cosmic Girl",
+        "artista": "Jamiroquai",
+        "arquivo": "CosmicGirl.webp"
+    },
+    {
+        "id_code": "BodyMoving",
+        "titulo": "Body Movin’ (Fatboy Slim Remix)",
+        "artista": "Beastie Boys",
+        "arquivo": "BodyMoving.webp"
+    },
+    {
+        "id_code": "VivaLasVegas",
+        "titulo": "Viva Las Vegas",
+        "artista": "Elvis Presley",
+        "arquivo": "VivaLasVegas.webp"
+    },
+    {
+        "id_code": "Alright",
+        "titulo": "Alright",
+        "artista": "Supergrass",
+        "arquivo": "Alright.webp"
+    },
+    {
+        "id_code": "Rockafeller",
+        "titulo": "Rockafeller Skank",
+        "artista": "Fatboy Slim",
+        "arquivo": "Rockafeller.webp"
+    },
+    {
+        "id_code": "ShouldIStay",
+        "titulo": "Should I Stay or Should I Go",
+        "artista": "The Clash",
+        "arquivo": "ShouldIStay.webp"
+    },
+    {
+        "id_code": "FunkyTown",
+        "titulo": "Funkytown",
+        "artista": "Lipps Inc.(Sweat Invaders)",
+        "arquivo": "FunkyTown.webp"
+    },
+    {
+        "id_code": "JaiHo",
+        "titulo": "Jai Ho (You Are My Destiny)",
+        "artista": "A. R. Rahman and The Pussycat Dolls ft. Nicole Scherzinger",
+        "arquivo": "JaiHo.webp"
+    }
+]

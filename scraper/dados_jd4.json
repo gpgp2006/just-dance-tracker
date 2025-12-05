@@ -1,0 +1,302 @@
+[
+    {
+        "id_code": "CallMeMaybe",
+        "titulo": "Call Me Maybe",
+        "artista": "Carly Rae Jepsen",
+        "arquivo": "CallMeMaybe.webp"
+    },
+    {
+        "id_code": "GoodFeeling",
+        "titulo": "Good Feeling",
+        "artista": "Flo Rida",
+        "arquivo": "GoodFeeling.webp"
+    },
+    {
+        "id_code": "RockLobster",
+        "titulo": "Rock Lobster",
+        "artista": "The B-52’s",
+        "arquivo": "RockLobster.webp"
+    },
+    {
+        "id_code": "Disturbia",
+        "titulo": "Disturbia",
+        "artista": "Rihanna",
+        "arquivo": "Disturbia.webp"
+    },
+    {
+        "id_code": "MakesYouBeautifulQUAT",
+        "titulo": "What Makes You Beautiful",
+        "artista": "One Direction",
+        "arquivo": "MakesYouBeautifulQUAT.webp"
+    },
+    {
+        "id_code": "HotForMe",
+        "titulo": "Hot For Me",
+        "artista": "A.K.A",
+        "arquivo": "HotForMe.webp"
+    },
+    {
+        "id_code": "KetchupSong",
+        "titulo": "Aserejé (The Ketchup Song)",
+        "artista": "Las Ketchup",
+        "arquivo": "KetchupSong.webp"
+    },
+    {
+        "id_code": "HitEmUp",
+        "titulo": "Hit ’Em Up Style (Oops!)",
+        "artista": "Blu Cantrell",
+        "arquivo": "HitEmUp.webp"
+    },
+    {
+        "id_code": "Americano",
+        "titulo": "We No Speak Americano",
+        "artista": "Yolanda Be Cool and DCUP (Hit The Electro Beat)",
+        "arquivo": "Americano.webp"
+    },
+    {
+        "id_code": "IDidItAgainQUAT",
+        "titulo": "Oops!... I Did It Again",
+        "artista": "Britney Spears (The Girly Team)",
+        "arquivo": "IDidItAgainQUAT.webp"
+    },
+    {
+        "id_code": "BeautyAndABeat",
+        "titulo": "Beauty And A Beat",
+        "artista": "Justin Bieber ft. Nicki Minaj",
+        "arquivo": "BeautyAndABeat.webp"
+    },
+    {
+        "id_code": "EverybodyNeeds",
+        "titulo": "Everybody Needs Somebody To Love",
+        "artista": "The Blues Brothers (Dancing Bros)",
+        "arquivo": "EverybodyNeeds.webp"
+    },
+    {
+        "id_code": "SexyLittleThing",
+        "titulo": "Crazy Little Thing",
+        "artista": "Anja",
+        "arquivo": "SexyLittleThing.webp"
+    },
+    {
+        "id_code": "SuperBass",
+        "titulo": "Super Bass",
+        "artista": "Nicki Minaj",
+        "arquivo": "SuperBass.webp"
+    },
+    {
+        "id_code": "TribalDance",
+        "titulo": "Tribal Dance",
+        "artista": "2 Unlimited",
+        "arquivo": "TribalDance.webp"
+    },
+    {
+        "id_code": "OnTheFloor",
+        "titulo": "On the Floor",
+        "artista": "Jennifer Lopez ft. Pitbull",
+        "arquivo": "OnTheFloor.webp"
+    },
+    {
+        "id_code": "BewareOf",
+        "titulo": "Beware of the Boys (Mundian To Bach Ke)",
+        "artista": "Panjabi MC",
+        "arquivo": "BewareOf.webp"
+    },
+    {
+        "id_code": "NeverGonna",
+        "titulo": "Never Gonna Give You Up",
+        "artista": "Rick Astley",
+        "arquivo": "NeverGonna.webp"
+    },
+    {
+        "id_code": "Maneater",
+        "titulo": "Maneater",
+        "artista": "Nelly Furtado",
+        "arquivo": "Maneater.webp"
+    },
+    {
+        "id_code": "RunTheShow",
+        "titulo": "Run The Show",
+        "artista": "Kat DeLuna ft. Busta Rhymes",
+        "arquivo": "RunTheShow.webp"
+    },
+    {
+        "id_code": "LivinLaVida",
+        "titulo": "Livin’ La Vida Loca",
+        "artista": "Ricky Martin",
+        "arquivo": "LivinLaVida.webp"
+    },
+    {
+        "id_code": "YouReTheFirst",
+        "titulo": "You’re the First, the Last, My Everything",
+        "artista": "Barry White",
+        "arquivo": "YouReTheFirst.webp"
+    },
+    {
+        "id_code": "OhNo",
+        "titulo": "Oh No!",
+        "artista": "Marina and the Diamonds",
+        "arquivo": "OhNo.webp"
+    },
+    {
+        "id_code": "ILikeItLike",
+        "titulo": "I Like It",
+        "artista": "The Blackout Allstars",
+        "arquivo": "ILikeItLike.webp"
+    },
+    {
+        "id_code": "LoveYouLike",
+        "titulo": "Love You Like A Love Song",
+        "artista": "Selena Gomez and the Scene",
+        "arquivo": "LoveYouLike.webp"
+    },
+    {
+        "id_code": "CrucifiedQUAT",
+        "titulo": "Crucified",
+        "artista": "Army of Lovers",
+        "arquivo": "CrucifiedQUAT.webp"
+    },
+    {
+        "id_code": "MasQueNada",
+        "titulo": "Mas Que Nada",
+        "artista": "Sergio Mendes ft. The Black Eyed Peas",
+        "arquivo": "MasQueNada.webp"
+    },
+    {
+        "id_code": "CatchinUp",
+        "titulo": "Some Catchin’ Up To Do",
+        "artista": "Sammy",
+        "arquivo": "CatchinUp.webp"
+    },
+    {
+        "id_code": "TheFinalCountdown",
+        "titulo": "The Final Countdown",
+        "artista": "Europe",
+        "arquivo": "TheFinalCountdown.webp"
+    },
+    {
+        "id_code": "MrSaxobeat",
+        "titulo": "Mr. Saxobeat",
+        "artista": "Alexandra Stan",
+        "arquivo": "MrSaxobeat.webp"
+    },
+    {
+        "id_code": "JailHouseQUAT",
+        "titulo": "Jailhouse Rock",
+        "artista": "Elvis Presley",
+        "arquivo": "JailHouseQUAT.webp"
+    },
+    {
+        "id_code": "MovesLikeJag",
+        "titulo": "Moves Like Jagger",
+        "artista": "Maroon 5 ft. Christina Aguilera",
+        "arquivo": "MovesLikeJag.webp"
+    },
+    {
+        "id_code": "CantTakeMyEyes",
+        "titulo": "Can’t Take My Eyes Off You",
+        "artista": "Frankie Valli (Boys Town Gang)",
+        "arquivo": "CantTakeMyEyes.webp"
+    },
+    {
+        "id_code": "MakeTheParty",
+        "titulo": "Make The Party (Don’t Stop)",
+        "artista": "Bunny Beatz ft. Liquid",
+        "arquivo": "MakeTheParty.webp"
+    },
+    {
+        "id_code": "WildWildWestQUAT",
+        "titulo": "Wild Wild West",
+        "artista": "Will Smith",
+        "arquivo": "WildWildWestQUAT.webp"
+    },
+    {
+        "id_code": "SoWhat",
+        "titulo": "So What",
+        "artista": "P!nk",
+        "arquivo": "SoWhat.webp"
+    },
+    {
+        "id_code": "IstanbulQUAT",
+        "titulo": "Istanbul (Not Constantinople)",
+        "artista": "They Might Be Giants",
+        "arquivo": "IstanbulQUAT.webp"
+    },
+    {
+        "id_code": "Superstition",
+        "titulo": "Superstition",
+        "artista": "Stevie Wonder",
+        "arquivo": "Superstition.webp"
+    },
+    {
+        "id_code": "TheTimeOfMyLife",
+        "titulo": "(I’ve Had) The Time Of My Life",
+        "artista": "Bill Medley and Jennifer Warnes",
+        "arquivo": "TheTimeOfMyLife.webp"
+    },
+    {
+        "id_code": "RockNRoll",
+        "titulo": "Rock n’ Roll (Will Take You to the Mountain)",
+        "artista": "Skrillex",
+        "arquivo": "RockNRoll.webp"
+    },
+    {
+        "id_code": "TimeWarpQUAT",
+        "titulo": "Time Warp",
+        "artista": "The Rocky Horror Picture Show Cast (Halloween Thrills)",
+        "arquivo": "TimeWarpQUAT.webp"
+    },
+    {
+        "id_code": "YouMakeMeFeel",
+        "titulo": "You Make Me Feel...",
+        "artista": "Cobra Starship ft. Sabi",
+        "arquivo": "YouMakeMeFeel.webp"
+    },
+    {
+        "id_code": "LetMeFeelYa",
+        "titulo": "Brand New Start",
+        "artista": "Anja",
+        "arquivo": "LetMeFeelYa.webp"
+    },
+    {
+        "id_code": "GoodGirl",
+        "titulo": "Good Girl",
+        "artista": "Carrie Underwood",
+        "arquivo": "GoodGirl.webp"
+    },
+    {
+        "id_code": "Umbrella",
+        "titulo": "Umbrella",
+        "artista": "Rihanna ft. Jay-Z",
+        "arquivo": "Umbrella.webp"
+    },
+    {
+        "id_code": "Amore",
+        "titulo": "Cercavo Amore",
+        "artista": "Emma",
+        "arquivo": "Amore.webp"
+    },
+    {
+        "id_code": "Diggin",
+        "titulo": "Diggin’ in the Dirt",
+        "artista": "Stefanie Heinzmann",
+        "arquivo": "Diggin.webp"
+    },
+    {
+        "id_code": "AintNoOtherMan",
+        "titulo": "Ain’t No Other Man",
+        "artista": "Christina Aguilera (The Girly Team)",
+        "arquivo": "AintNoOtherMan.webp"
+    },
+    {
+        "id_code": "Domino",
+        "titulo": "Domino",
+        "artista": "Jessie J",
+        "arquivo": "Domino.webp"
+    },
+    {
+        "id_code": "WantUBack",
+        "titulo": "Want U Back",
+        "artista": "Cher Lloyd ft. Astro",
+        "arquivo": "WantUBack.webp"
+    }
+]

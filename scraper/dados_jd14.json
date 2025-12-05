@@ -1,0 +1,272 @@
+[
+    {
+        "id_code": "KissYou",
+        "titulo": "Kiss You",
+        "artista": "One Direction",
+        "arquivo": "KissYou.webp"
+    },
+    {
+        "id_code": "JustDance",
+        "titulo": "Just Dance",
+        "artista": "Lady Gaga Ft. Colby O’ Donis",
+        "arquivo": "JustDance.webp"
+    },
+    {
+        "id_code": "CarelessWhisper",
+        "titulo": "Careless Whisper",
+        "artista": "George Michael",
+        "arquivo": "CarelessWhisper.webp"
+    },
+    {
+        "id_code": "Cmon",
+        "titulo": "C’mon",
+        "artista": "Ke$ha",
+        "arquivo": "Cmon.webp"
+    },
+    {
+        "id_code": "SheWolf",
+        "titulo": "She Wolf (Falling to Pieces)",
+        "artista": "David Guetta Ft. Sia",
+        "arquivo": "SheWolf.webp"
+    },
+    {
+        "id_code": "WhatAFeeling",
+        "titulo": "Flashdance... What A Feeling",
+        "artista": "Irene Cara(The Girly Team)",
+        "arquivo": "WhatAFeeling.webp"
+    },
+    {
+        "id_code": "PrinceAli",
+        "titulo": "Prince Ali",
+        "artista": "Robin Williams(Disney’s Aladdin)",
+        "arquivo": "PrinceAli.webp"
+    },
+    {
+        "id_code": "GetLucky",
+        "titulo": "Get Lucky",
+        "artista": "Daft Punk Ft. Pharrell Williams",
+        "arquivo": "GetLucky.webp"
+    },
+    {
+        "id_code": "Wild",
+        "titulo": "Wild",
+        "artista": "Jessie J ft. Big Sean",
+        "arquivo": "Wild.webp"
+    },
+    {
+        "id_code": "Gentleman",
+        "titulo": "Gentleman",
+        "artista": "PSY",
+        "arquivo": "Gentleman.webp"
+    },
+    {
+        "id_code": "BlurredLines",
+        "titulo": "Blurred Lines",
+        "artista": "Robin Thicke ft. Pharrell Williams",
+        "arquivo": "BlurredLines.webp"
+    },
+    {
+        "id_code": "Ghostbusters",
+        "titulo": "Ghostbusters",
+        "artista": "Ray Parker Jr.",
+        "arquivo": "Ghostbusters.webp"
+    },
+    {
+        "id_code": "IWillSurvive",
+        "titulo": "I Will Survive",
+        "artista": "Gloria Gaynor",
+        "arquivo": "IWillSurvive.webp"
+    },
+    {
+        "id_code": "ThatPower",
+        "titulo": "#thatPOWER",
+        "artista": "will.i.am Ft. Justin Bieber",
+        "arquivo": "ThatPower.webp"
+    },
+    {
+        "id_code": "Limbo",
+        "titulo": "Limbo",
+        "artista": "Daddy Yankee",
+        "arquivo": "Limbo.webp"
+    },
+    {
+        "id_code": "TheWay",
+        "titulo": "The Way",
+        "artista": "Ariana Grande Ft. Mac Miller",
+        "arquivo": "TheWay.webp"
+    },
+    {
+        "id_code": "PoundTheAlarm",
+        "titulo": "Pound The Alarm",
+        "artista": "Nicki Minaj",
+        "arquivo": "PoundTheAlarm.webp"
+    },
+    {
+        "id_code": "Troublemaker",
+        "titulo": "Troublemaker",
+        "artista": "Olly Murs Ft. Flo Rida",
+        "arquivo": "Troublemaker.webp"
+    },
+    {
+        "id_code": "LimaGolf1",
+        "titulo": "Applause",
+        "artista": "Lady Gaga",
+        "arquivo": "LimaGolf1.webp"
+    },
+    {
+        "id_code": "BlameIt",
+        "titulo": "Blame It on the Boogie",
+        "artista": "Mick Jackson",
+        "arquivo": "BlameIt.webp"
+    },
+    {
+        "id_code": "FeelSoRight",
+        "titulo": "Feel So Right",
+        "artista": "Imposs ft. Konshens",
+        "arquivo": "FeelSoRight.webp"
+    },
+    {
+        "id_code": "SummerTime",
+        "titulo": "In the Summertime",
+        "artista": "Mungo Jerry",
+        "arquivo": "SummerTime.webp"
+    },
+    {
+        "id_code": "FineChina",
+        "titulo": "Fine China",
+        "artista": "Chris Brown",
+        "arquivo": "FineChina.webp"
+    },
+    {
+        "id_code": "WhereHaveYou",
+        "titulo": "Where Have You Been",
+        "artista": "Rihanna",
+        "arquivo": "WhereHaveYou.webp"
+    },
+    {
+        "id_code": "Maria",
+        "titulo": "María",
+        "artista": "Ricky Martin",
+        "arquivo": "Maria.webp"
+    },
+    {
+        "id_code": "GimmeGimme",
+        "titulo": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "artista": "ABBA",
+        "arquivo": "GimmeGimme.webp"
+    },
+    {
+        "id_code": "Moskau",
+        "titulo": "Moskau",
+        "artista": "Dschinghis Khan(Dancing Bros.)",
+        "arquivo": "Moskau.webp"
+    },
+    {
+        "id_code": "FeelThisMoment",
+        "titulo": "Feel This Moment",
+        "artista": "Pitbull Ft. Christina Aguilera",
+        "arquivo": "FeelThisMoment.webp"
+    },
+    {
+        "id_code": "FollowTheLeader",
+        "titulo": "Follow the Leader",
+        "artista": "Wisin & Yandel Ft. Jennifer Lopez",
+        "arquivo": "FollowTheLeader.webp"
+    },
+    {
+        "id_code": "YMCA",
+        "titulo": "Y.M.C.A.",
+        "artista": "Village People",
+        "arquivo": "YMCA.webp"
+    },
+    {
+        "id_code": "CouldYouBeLoved",
+        "titulo": "Could You Be Loved",
+        "artista": "Bob Marley",
+        "arquivo": "CouldYouBeLoved.webp"
+    },
+    {
+        "id_code": "Starships",
+        "titulo": "Starships",
+        "artista": "Nicki Minaj",
+        "arquivo": "Starships.webp"
+    },
+    {
+        "id_code": "Luftballons",
+        "titulo": "99 Luftballons",
+        "artista": "NENA (Rutschen Planeten)",
+        "arquivo": "Luftballons.webp"
+    },
+    {
+        "id_code": "Candy",
+        "titulo": "Candy",
+        "artista": "Robbie Williams",
+        "arquivo": "Candy.webp"
+    },
+    {
+        "id_code": "IKissed",
+        "titulo": "I Kissed a Girl",
+        "artista": "Katy Perry",
+        "arquivo": "IKissed.webp"
+    },
+    {
+        "id_code": "RichGirl",
+        "titulo": "Rich Girl",
+        "artista": "Gwen Stefani Ft. Eve",
+        "arquivo": "RichGirl.webp"
+    },
+    {
+        "id_code": "ItsYou",
+        "titulo": "It’s You",
+        "artista": "Duck Sauce",
+        "arquivo": "ItsYou.webp"
+    },
+    {
+        "id_code": "Aquarius",
+        "titulo": "Aquarius/Let the Sunshine In",
+        "artista": "The 5th Dimension(The Sunlight Shakers)",
+        "arquivo": "Aquarius.webp"
+    },
+    {
+        "id_code": "Misunderstood",
+        "titulo": "Miss Understood",
+        "artista": "Sammie",
+        "arquivo": "Misunderstood.webp"
+    },
+    {
+        "id_code": "RobotRock",
+        "titulo": "Nitro Bot",
+        "artista": "Sentai Express",
+        "arquivo": "RobotRock.webp"
+    },
+    {
+        "id_code": "OtherSide",
+        "titulo": "The Other Side",
+        "artista": "Jason Derulo",
+        "arquivo": "OtherSide.webp"
+    },
+    {
+        "id_code": "Dancando",
+        "titulo": "Dançando",
+        "artista": "Ivete Sangalo",
+        "arquivo": "Dancando.webp"
+    },
+    {
+        "id_code": "Danse",
+        "titulo": "Danse (Pop Version)",
+        "artista": "Tal",
+        "arquivo": "Danse.webp"
+    },
+    {
+        "id_code": "SafeAndSound",
+        "titulo": "Safe And Sound",
+        "artista": "Capital Cities",
+        "arquivo": "SafeAndSound.webp"
+    },
+    {
+        "id_code": "WakingUp",
+        "titulo": "Waking Up in Vegas",
+        "artista": "Katy Perry",
+        "arquivo": "WakingUp.webp"
+    }
+]

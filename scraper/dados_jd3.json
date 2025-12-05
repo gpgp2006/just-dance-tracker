@@ -1,0 +1,320 @@
+[
+    {
+        "id_code": "CaliforniaGurls",
+        "titulo": "California Gurls",
+        "artista": "Katy Perry featuring Snoop Dogg",
+        "arquivo": "CaliforniaGurls.webp"
+    },
+    {
+        "id_code": "TakeOnMe",
+        "titulo": "Take On Me",
+        "artista": "a-ha",
+        "arquivo": "TakeOnMe.webp"
+    },
+    {
+        "id_code": "PumpIt",
+        "titulo": "Pump It",
+        "artista": "The Black Eyed Peas",
+        "arquivo": "PumpIt.webp"
+    },
+    {
+        "id_code": "Lollipop",
+        "titulo": "Lollipop",
+        "artista": "MIKA",
+        "arquivo": "Lollipop.webp"
+    },
+    {
+        "id_code": "Promiscuous",
+        "titulo": "Promiscuous",
+        "artista": "Nelly Furtado featuring Timbaland",
+        "arquivo": "Promiscuous.webp"
+    },
+    {
+        "id_code": "BabyOneMoreQUAT",
+        "titulo": "Baby One More Time",
+        "artista": "Britney Spears(The Girly Team)",
+        "arquivo": "BabyOneMoreQUAT.webp"
+    },
+    {
+        "id_code": "PriceTag",
+        "titulo": "Price Tag",
+        "artista": "Jessie J featuring B.o.B.",
+        "arquivo": "PriceTag.webp"
+    },
+    {
+        "id_code": "FeelLikeDancing",
+        "titulo": "I Don’t Feel Like Dancin’",
+        "artista": "Scissor Sisters",
+        "arquivo": "FeelLikeDancing.webp"
+    },
+    {
+        "id_code": "MarciaBaila",
+        "titulo": "Marcia Baila",
+        "artista": "Les Rita Mitsouko",
+        "arquivo": "MarciaBaila.webp"
+    },
+    {
+        "id_code": "BarbraStreisand",
+        "titulo": "Barbra Streisand",
+        "artista": "Duck Sauce",
+        "arquivo": "BarbraStreisand.webp"
+    },
+    {
+        "id_code": "VenusB",
+        "titulo": "Venus",
+        "artista": "Bananarama",
+        "arquivo": "VenusB.webp"
+    },
+    {
+        "id_code": "NoLimit",
+        "titulo": "No Limit",
+        "artista": "2 Unlimited",
+        "arquivo": "NoLimit.webp"
+    },
+    {
+        "id_code": "DynamiteQUAT",
+        "titulo": "Dynamite",
+        "artista": "Taio Cruz",
+        "arquivo": "DynamiteQUAT.webp"
+    },
+    {
+        "id_code": "TeenageDream",
+        "titulo": "Teenage Dream",
+        "artista": "Katy Perry",
+        "arquivo": "TeenageDream.webp"
+    },
+    {
+        "id_code": "OnlyGirl",
+        "titulo": "Only Girl (In The World)",
+        "artista": "Rihanna",
+        "arquivo": "OnlyGirl.webp"
+    },
+    {
+        "id_code": "ForgetYou",
+        "titulo": "Forget You",
+        "artista": "CeeLo Green",
+        "arquivo": "ForgetYou.webp"
+    },
+    {
+        "id_code": "JumpGA",
+        "titulo": "Jump (For My Love)",
+        "artista": "Girls Aloud",
+        "arquivo": "JumpGA.webp"
+    },
+    {
+        "id_code": "GonnaMake",
+        "titulo": "Gonna Make You Sweat (Everybody Dance Now)",
+        "artista": "C+C Music Factory feat. Freedom Williams(Sweat Invaders)",
+        "arquivo": "GonnaMake.webp"
+    },
+    {
+        "id_code": "WhatYouWait",
+        "titulo": "What You Waiting For?",
+        "artista": "Gwen Stefani",
+        "arquivo": "WhatYouWait.webp"
+    },
+    {
+        "id_code": "CrazyLittle",
+        "titulo": "Crazy Little Thing Called Love",
+        "artista": "Queen",
+        "arquivo": "CrazyLittle.webp"
+    },
+    {
+        "id_code": "Think",
+        "titulo": "Think",
+        "artista": "Aretha Franklin(The London Theatre Orchestra & Cast)",
+        "arquivo": "Think.webp"
+    },
+    {
+        "id_code": "BoogieWonderQUAT",
+        "titulo": "Boogie Wonderland",
+        "artista": "Earth, Wind & Fire feat. The Emotions(Groove Century)",
+        "arquivo": "BoogieWonderQUAT.webp"
+    },
+    {
+        "id_code": "HeyBoy",
+        "titulo": "Hey Boy Hey Girl",
+        "artista": "The Chemical Brothers",
+        "arquivo": "HeyBoy.webp"
+    },
+    {
+        "id_code": "ET",
+        "titulo": "E.T.",
+        "artista": "Katy Perry",
+        "arquivo": "ET.webp"
+    },
+    {
+        "id_code": "Boom",
+        "titulo": "Boom",
+        "artista": "MC Magico and Alex Wilson(Reggaeton Storm)",
+        "arquivo": "Boom.webp"
+    },
+    {
+        "id_code": "DaFunk",
+        "titulo": "Da Funk",
+        "artista": "Daft Punk",
+        "arquivo": "DaFunk.webp"
+    },
+    {
+        "id_code": "IFeelLove",
+        "titulo": "I Feel Love",
+        "artista": "Donna Summer",
+        "arquivo": "IFeelLove.webp"
+    },
+    {
+        "id_code": "GiveMeMore",
+        "titulo": "Dance All Nite",
+        "artista": "Anja",
+        "arquivo": "GiveMeMore.webp"
+    },
+    {
+        "id_code": "SpectronizerQUAT",
+        "titulo": "Spectronizer",
+        "artista": "Sentai Express",
+        "arquivo": "SpectronizerQUAT.webp"
+    },
+    {
+        "id_code": "PartyRock",
+        "titulo": "Party Rock Anthem",
+        "artista": "LMFAO featuring Lauren Bennett and GoonRock",
+        "arquivo": "PartyRock.webp"
+    },
+    {
+        "id_code": "GonnaGoMyWay",
+        "titulo": "Are You Gonna Go My Way",
+        "artista": "Lenny Kravitz",
+        "arquivo": "GonnaGoMyWay.webp"
+    },
+    {
+        "id_code": "lo1000",
+        "titulo": "Land Of 1000 Dances",
+        "artista": "Wilson Pickett",
+        "arquivo": "lo1000.webp"
+    },
+    {
+        "id_code": "GotMeDancing",
+        "titulo": "She’s Got Me Dancing",
+        "artista": "Tommy Sparks",
+        "arquivo": "GotMeDancing.webp"
+    },
+    {
+        "id_code": "JamaicanDance",
+        "titulo": "Jamaican Dance",
+        "artista": "Konshens",
+        "arquivo": "JamaicanDance.webp"
+    },
+    {
+        "id_code": "ToTheMall",
+        "titulo": "Let's Go To The Mall",
+        "artista": "Cobie Smulders(as Robin Sparkles)",
+        "arquivo": "ToTheMall.webp"
+    },
+    {
+        "id_code": "NightBoatQUAT",
+        "titulo": "Night Boat To Cairo",
+        "artista": "Madness",
+        "arquivo": "NightBoatQUAT.webp"
+    },
+    {
+        "id_code": "SoExcited",
+        "titulo": "I'm So Excited",
+        "artista": "The Pointer Sisters",
+        "arquivo": "SoExcited.webp"
+    },
+    {
+        "id_code": "VideoKilled",
+        "titulo": "Video Killed the Radio Star",
+        "artista": "The Buggles",
+        "arquivo": "VideoKilled.webp"
+    },
+    {
+        "id_code": "Kurio",
+        "titulo": "Kurio ko uddah le jana",
+        "artista": "Lata Mangeshkar and S. P. Balasubrahmanyam (Bollywood Rainbow)",
+        "arquivo": "Kurio.webp"
+    },
+    {
+        "id_code": "GiddyOnUp",
+        "titulo": "Giddy on Up (Giddy on Out)",
+        "artista": "Laura Bell Bundy",
+        "arquivo": "GiddyOnUp.webp"
+    },
+    {
+        "id_code": "IWasMadeQUAT",
+        "titulo": "I Was Made For Lovin' You",
+        "artista": "Kiss",
+        "arquivo": "IWasMadeQUAT.webp"
+    },
+    {
+        "id_code": "TightRope",
+        "titulo": "Tightrope (Solo Version)",
+        "artista": "Janelle Monae",
+        "arquivo": "TightRope.webp"
+    },
+    {
+        "id_code": "Airplanes",
+        "titulo": "Airplanes",
+        "artista": "B.o.B. ft. Hayley Williams of Paramore",
+        "arquivo": "Airplanes.webp"
+    },
+    {
+        "id_code": "BeautifulLiar",
+        "titulo": "Beautiful Liar",
+        "artista": "Beyoncé and Shakira(Countdown Mix Masters)",
+        "arquivo": "BeautifulLiar.webp"
+    },
+    {
+        "id_code": "Apache",
+        "titulo": "Apache (Jump On It)",
+        "artista": "The Sugarhill Gang",
+        "arquivo": "Apache.webp"
+    },
+    {
+        "id_code": "PataPata",
+        "titulo": "Pata Pata",
+        "artista": "Miriam Makeba(African Ladies)",
+        "arquivo": "PataPata.webp"
+    },
+    {
+        "id_code": "Satellite",
+        "titulo": "Satellite",
+        "artista": "Lena Meyer-Landrut",
+        "arquivo": "Satellite.webp"
+    },
+    {
+        "id_code": "SomethinStupid",
+        "titulo": "Somethin’ Stupid",
+        "artista": "Robbie Williams and Nicole Kidman",
+        "arquivo": "SomethinStupid.webp"
+    },
+    {
+        "id_code": "HalloweenQUAT",
+        "titulo": "This is Halloween",
+        "artista": "Danny Elfman",
+        "arquivo": "HalloweenQUAT.webp"
+    },
+    {
+        "id_code": "JamboMambo",
+        "titulo": "Jambo Mambo",
+        "artista": "Ole Orquesta",
+        "arquivo": "JamboMambo.webp"
+    },
+    {
+        "id_code": "BabyDontStop",
+        "titulo": "Baby Don’t Stop Now",
+        "artista": "Anja",
+        "arquivo": "BabyDontStop.webp"
+    },
+    {
+        "id_code": "TwistShakeAss",
+        "titulo": "Twist and Shake It",
+        "artista": "Ben Wheeler and Tara Chinn(The Girly Team)",
+        "arquivo": "TwistShakeAss.webp"
+    },
+    {
+        "id_code": "SoulSearch",
+        "titulo": "Soul Searchin’",
+        "artista": "Groove Century",
+        "arquivo": "SoulSearch.webp"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "id_code": "Problem",
+        "titulo": "Problem",
+        "artista": "Ariana Grande ft. Iggy Azalea & Big Sean",
+        "arquivo": "Problem.webp"
+    },
+    {
+        "id_code": "Happy",
+        "titulo": "Happy",
+        "artista": "Pharrell Williams",
+        "arquivo": "Happy.webp"
+    },
+    {
+        "id_code": "TheFox",
+        "titulo": "The Fox (What Does The Fox Say?)",
+        "artista": "Ylvis",
+        "arquivo": "TheFox.webp"
+    },
+    {
+        "id_code": "LoveMeAgain",
+        "titulo": "Love Me Again",
+        "artista": "John Newman",
+        "arquivo": "LoveMeAgain.webp"
+    },
+    {
+        "id_code": "LoveIsAll",
+        "titulo": "Love Is All",
+        "artista": "Roger Glover & the Butterfly Ball(The Sunlight Shakers)",
+        "arquivo": "LoveIsAll.webp"
+    },
+    {
+        "id_code": "BrokenHeart",
+        "titulo": "Me And My Broken Heart",
+        "artista": "Rixton",
+        "arquivo": "BrokenHeart.webp"
+    },
+    {
+        "id_code": "ILoveIt",
+        "titulo": "I Love It",
+        "artista": "Icona Pop ft. Charli XCX",
+        "arquivo": "ILoveIt.webp"
+    },
+    {
+        "id_code": "Tetris",
+        "titulo": "Tetris",
+        "artista": "Hirokazu Tanaka(Dancing Bros.)",
+        "arquivo": "Tetris.webp"
+    },
+    {
+        "id_code": "WalkThisWay",
+        "titulo": "Walk This Way",
+        "artista": "Run DMC & Aerosmith",
+        "arquivo": "WalkThisWay.webp"
+    },
+    {
+        "id_code": "EnglishVersion",
+        "titulo": "Let It Go",
+        "artista": "Idina Menzel(Disney’s Frozen)",
+        "arquivo": "EnglishVersion.webp"
+    },
+    {
+        "id_code": "BuiltForThis",
+        "titulo": "Built For This",
+        "artista": "Becky G",
+        "arquivo": "BuiltForThis.webp"
+    },
+    {
+        "id_code": "Bailando",
+        "titulo": "Bailando",
+        "artista": "Enrique Iglesias ft. Descemer Bueno and Gente de Zona",
+        "arquivo": "Bailando.webp"
+    },
+    {
+        "id_code": "Summer",
+        "titulo": "Summer",
+        "artista": "Calvin Harris",
+        "arquivo": "Summer.webp"
+    },
+    {
+        "id_code": "DontWorry",
+        "titulo": "Don’t Worry Be Happy",
+        "artista": "Bobby McFerrin(The Bench Men)",
+        "arquivo": "DontWorry.webp"
+    },
+    {
+        "id_code": "Macarena",
+        "titulo": "Macarena",
+        "artista": "Los Del Rio(The Girly Team)",
+        "arquivo": "Macarena.webp"
+    },
+    {
+        "id_code": "BlackWidow",
+        "titulo": "Black Widow",
+        "artista": "Iggy Azalea ft. Rita Ora",
+        "arquivo": "BlackWidow.webp"
+    },
+    {
+        "id_code": "NoMountain",
+        "titulo": "Ain’t No Mountain High Enough",
+        "artista": "Marvin Gaye & Tammi Terrell",
+        "arquivo": "NoMountain.webp"
+    },
+    {
+        "id_code": "GetLow",
+        "titulo": "Get Low",
+        "artista": "Dillon Francis ft. DJ Snake",
+        "arquivo": "GetLow.webp"
+    },
+    {
+        "id_code": "Balance",
+        "titulo": "Bang Bang",
+        "artista": "Jessie J ft. Ariana Grande & Nicki Minaj",
+        "arquivo": "Balance.webp"
+    },
+    {
+        "id_code": "Fatima",
+        "titulo": "Fatima",
+        "artista": "Sylvain Lux & llan Abou(Cheb Salama)",
+        "arquivo": "Fatima.webp"
+    },
+    {
+        "id_code": "HoldingOut",
+        "titulo": "Holding Out for a Hero",
+        "artista": "Bonnie Tyler",
+        "arquivo": "HoldingOut.webp"
+    },
+    {
+        "id_code": "Birthday",
+        "titulo": "Birthday",
+        "artista": "Katy Perry",
+        "arquivo": "Birthday.webp"
+    },
+    {
+        "id_code": "OnlyYou",
+        "titulo": "Only You (And You Alone)",
+        "artista": "The Platters(Love Letter)",
+        "arquivo": "OnlyYou.webp"
+    },
+    {
+        "id_code": "Diamonds",
+        "titulo": "Diamonds",
+        "artista": "Rihanna",
+        "arquivo": "Diamonds.webp"
+    },
+    {
+        "id_code": "SoPerfect",
+        "titulo": "She Looks So Perfect",
+        "artista": "5 Seconds Of Summer",
+        "arquivo": "SoPerfect.webp"
+    },
+    {
+        "id_code": "BollywoodXmas",
+        "titulo": "XMas Tree",
+        "artista": "Bollywood Santa",
+        "arquivo": "BollywoodXmas.webp"
+    },
+    {
+        "id_code": "BestSongEver",
+        "titulo": "Best Song Ever",
+        "artista": "One Direction",
+        "arquivo": "BestSongEver.webp"
+    },
+    {
+        "id_code": "BadRomance",
+        "titulo": "Bad Romance",
+        "artista": "Lady Gaga",
+        "arquivo": "BadRomance.webp"
+    },
+    {
+        "id_code": "NeverCanSay",
+        "titulo": "Never Can Say Goodbye",
+        "artista": "Gloria Gaynor",
+        "arquivo": "NeverCanSay.webp"
+    },
+    {
+        "id_code": "4x4",
+        "titulo": "4x4",
+        "artista": "Miley Cyrus",
+        "arquivo": "4x4.webp"
+    },
+    {
+        "id_code": "Sirtaki",
+        "titulo": "Epic Sirtaki",
+        "artista": "The Bouzouki’s",
+        "arquivo": "Sirtaki.webp"
+    },
+    {
+        "id_code": "ItsMyBirthday",
+        "titulo": "It’s My Birthday",
+        "artista": "will.i.am ft. Cody Wise",
+        "arquivo": "ItsMyBirthday.webp"
+    },
+    {
+        "id_code": "Burn",
+        "titulo": "Burn",
+        "artista": "Ellie Goulding",
+        "arquivo": "Burn.webp"
+    },
+    {
+        "id_code": "MahNa",
+        "titulo": "Mahna Mahna",
+        "artista": "Piero Umiliani(Frankie Bostello)",
+        "arquivo": "MahNa.webp"
+    },
+    {
+        "id_code": "Mad",
+        "titulo": "Maps",
+        "artista": "Maroon 5",
+        "arquivo": "Mad.webp"
+    },
+    {
+        "id_code": "OnMyMind",
+        "titulo": "You’re On My Mind",
+        "artista": "Imposs ft. J. Perry",
+        "arquivo": "OnMyMind.webp"
+    },
+    {
+        "id_code": "AddictedToYou",
+        "titulo": "Addicted To You",
+        "artista": "Avicii",
+        "arquivo": "AddictedToYou.webp"
+    },
+    {
+        "id_code": "FindYou",
+        "titulo": "Till I Find You",
+        "artista": "Austin Mahone",
+        "arquivo": "FindYou.webp"
+    },
+    {
+        "id_code": "Papaoutai",
+        "titulo": "Papaoutai",
+        "artista": "Stromae",
+        "arquivo": "Papaoutai.webp"
+    },
+    {
+        "id_code": "FindYourMove",
+        "titulo": "Movement is Happiness (Find Your Thing)",
+        "artista": "Avishay Goren & Yossi Cohen",
+        "arquivo": "FindYourMove.webp"
+    }
+]

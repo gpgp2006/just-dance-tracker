@@ -1,0 +1,260 @@
+[
+    {
+        "id_code": "CakeByTheOcean",
+        "titulo": "Cake By The Ocean",
+        "artista": "DNCE",
+        "arquivo": "CakeByTheOcean.webp"
+    },
+    {
+        "id_code": "CheapThrills",
+        "titulo": "Cheap Thrills",
+        "artista": "Sia ft. Sean Paul",
+        "arquivo": "CheapThrills.webp"
+    },
+    {
+        "id_code": "Daddy",
+        "titulo": "DADDY",
+        "artista": "PSY ft. CL of 2NE1",
+        "arquivo": "Daddy.webp"
+    },
+    {
+        "id_code": "Sorry",
+        "titulo": "Sorry",
+        "artista": "Justin Bieber",
+        "arquivo": "Sorry.webp"
+    },
+    {
+        "id_code": "Hips",
+        "titulo": "Hips Don’t Lie",
+        "artista": "Shakira ft. Wyclef Jean",
+        "arquivo": "Hips.webp"
+    },
+    {
+        "id_code": "September",
+        "titulo": "September",
+        "artista": "Earth, Wind & Fire (Equinox Stars)",
+        "arquivo": "September.webp"
+    },
+    {
+        "id_code": "SingleLadies",
+        "titulo": "Single Ladies (Put a Ring on It)",
+        "artista": "Beyoncé",
+        "arquivo": "SingleLadies.webp"
+    },
+    {
+        "id_code": "DontStopMe",
+        "titulo": "Don’t Stop Me Now",
+        "artista": "Queen",
+        "arquivo": "DontStopMe.webp"
+    },
+    {
+        "id_code": "LeanOn",
+        "titulo": "Lean On",
+        "artista": "Major Lazer & DJ Snake ft. MØ",
+        "arquivo": "LeanOn.webp"
+    },
+    {
+        "id_code": "CantFeelMyFace",
+        "titulo": "Can’t Feel My Face",
+        "artista": "The Weeknd",
+        "arquivo": "CantFeelMyFace.webp"
+    },
+    {
+        "id_code": "PoPiPo",
+        "titulo": "PoPiPo",
+        "artista": "Hatsune Miku",
+        "arquivo": "PoPiPo.webp"
+    },
+    {
+        "id_code": "IntoYou",
+        "titulo": "Into You",
+        "artista": "Ariana Grande",
+        "arquivo": "IntoYou.webp"
+    },
+    {
+        "id_code": "RedMangoose",
+        "titulo": "Don’t Wanna Know",
+        "artista": "Maroon 5",
+        "arquivo": "RedMangoose.webp"
+    },
+    {
+        "id_code": "Bang",
+        "titulo": "Bang",
+        "artista": "Anitta",
+        "arquivo": "Bang.webp"
+    },
+    {
+        "id_code": "GhostInTheKeys",
+        "titulo": "Ghost In The Keys",
+        "artista": "Halloween Thrills",
+        "arquivo": "GhostInTheKeys.webp"
+    },
+    {
+        "id_code": "Radical",
+        "titulo": "RADICAL",
+        "artista": "Dyro & Dannic",
+        "arquivo": "Radical.webp"
+    },
+    {
+        "id_code": "Bicicleta",
+        "titulo": "La Bicicleta",
+        "artista": "Carlos Vives & Shakira",
+        "arquivo": "Bicicleta.webp"
+    },
+    {
+        "id_code": "LikeIWould",
+        "titulo": "Like I Would",
+        "artista": "Zayn",
+        "arquivo": "LikeIWould.webp"
+    },
+    {
+        "id_code": "WhereverIGo",
+        "titulo": "Wherever I Go",
+        "artista": "OneRepublic",
+        "arquivo": "WhereverIGo.webp"
+    },
+    {
+        "id_code": "NaeNae",
+        "titulo": "Watch Me (Whip/Nae Nae)",
+        "artista": "Silentó",
+        "arquivo": "NaeNae.webp"
+    },
+    {
+        "id_code": "ILoveRock",
+        "titulo": "I Love Rock ‘N’ Roll",
+        "artista": "Joan Jett & The Blackhearts(Fast Forward Highway)",
+        "arquivo": "ILoveRock.webp"
+    },
+    {
+        "id_code": "Bonbon",
+        "titulo": "Bonbon",
+        "artista": "Era Istrefi",
+        "arquivo": "Bonbon.webp"
+    },
+    {
+        "id_code": "Groove",
+        "titulo": "Groove",
+        "artista": "Jack & Jack",
+        "arquivo": "Groove.webp"
+    },
+    {
+        "id_code": "Oishii",
+        "titulo": "Oishii Oishii",
+        "artista": "Wanko Ni Mero Mero",
+        "arquivo": "Oishii.webp"
+    },
+    {
+        "id_code": "WorthIt",
+        "titulo": "Worth It",
+        "artista": "Fifth Harmony ft. Kid Ink",
+        "arquivo": "WorthIt.webp"
+    },
+    {
+        "id_code": "LastChristmas",
+        "titulo": "Last Christmas",
+        "artista": "Wham!(Santa Clones)",
+        "arquivo": "LastChristmas.webp"
+    },
+    {
+        "id_code": "Samba",
+        "titulo": "Carnaval Boom",
+        "artista": "Latino Sunset",
+        "arquivo": "Samba.webp"
+    },
+    {
+        "id_code": "AllAboutUs",
+        "titulo": "All About Us",
+        "artista": "Jordan Fisher",
+        "arquivo": "AllAboutUs.webp"
+    },
+    {
+        "id_code": "Leila",
+        "titulo": "Leila",
+        "artista": "Cheb Salama",
+        "arquivo": "Leila.webp"
+    },
+    {
+        "id_code": "ColaSong",
+        "titulo": "Cola Song",
+        "artista": "INNA ft. J Balvin",
+        "arquivo": "ColaSong.webp"
+    },
+    {
+        "id_code": "LittleSwing",
+        "titulo": "Little Swing",
+        "artista": "AronChupa ft. Little Sis Nora",
+        "arquivo": "LittleSwing.webp"
+    },
+    {
+        "id_code": "RunTheNight",
+        "titulo": "Run The Night",
+        "artista": "Gigi Rowe",
+        "arquivo": "RunTheNight.webp"
+    },
+    {
+        "id_code": "DragosteaDinTei",
+        "titulo": "Dragostea Din Tei",
+        "artista": "O-Zone",
+        "arquivo": "DragosteaDinTei.webp"
+    },
+    {
+        "id_code": "ScreamNShout",
+        "titulo": "Scream & Shout",
+        "artista": "will.i.am ft. Britney Spears",
+        "arquivo": "ScreamNShout.webp"
+    },
+    {
+        "id_code": "TicoTico",
+        "titulo": "Tico-Tico No Fubá",
+        "artista": "Zequinha de Abreu(The Frankie Bostello Orchestra)",
+        "arquivo": "TicoTico.webp"
+    },
+    {
+        "id_code": "Bailar",
+        "titulo": "Bailar",
+        "artista": "Deorro ft. Elvis Crespo",
+        "arquivo": "Bailar.webp"
+    },
+    {
+        "id_code": "Titanium",
+        "titulo": "Titanium",
+        "artista": "David Guetta ft. Sia",
+        "arquivo": "Titanium.webp"
+    },
+    {
+        "id_code": "TeDominar",
+        "titulo": "Te Dominar",
+        "artista": "Daya Luz",
+        "arquivo": "TeDominar.webp"
+    },
+    {
+        "id_code": "WhatIsLove",
+        "titulo": "What Is Love",
+        "artista": "Haddaway(Ultraclub 90)",
+        "arquivo": "WhatIsLove.webp"
+    },
+    {
+        "id_code": "ElTiki",
+        "titulo": "El Tiki",
+        "artista": "Maluma",
+        "arquivo": "ElTiki.webp"
+    },
+    {
+        "id_code": "Chiwawa",
+        "titulo": "Chiwawa",
+        "artista": "Wanko Ni Mero Mero",
+        "arquivo": "Chiwawa.webp"
+    },
+    {
+        "id_code": "WilliamTell",
+        "titulo": "William Tell Overture",
+        "artista": "Rossini",
+        "arquivo": "WilliamTell.webp"
+    },
+    {
+        "id_code": "Imya505",
+        "titulo": "Imya 505",
+        "artista": "Vremya i Steklo",
+        "arquivo": "Imya505.webp"
+    }
+]
